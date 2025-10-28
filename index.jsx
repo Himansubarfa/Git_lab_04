@@ -1,2 +1,2 @@
-
-print("hello world");
+const name = "Alice";
+const greeting = <p>Hello, {name}!</p>;
